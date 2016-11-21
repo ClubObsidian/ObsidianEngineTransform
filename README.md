@@ -14,4 +14,4 @@ Uses javassist to transform classes on runtime by adding bindings to the classes
 
 Transform is licensed under the MIT license.
 
-Javassist is triple but for this project licensed under the Apache 2.0 license.
+Javassist is triple licensed but for this project licensed under the Apache 2.0 license.
